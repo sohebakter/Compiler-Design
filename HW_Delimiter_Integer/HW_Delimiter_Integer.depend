@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1785860772 source:c:\users\name\onedrive\desktop\hw_delimiter_integer\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+
